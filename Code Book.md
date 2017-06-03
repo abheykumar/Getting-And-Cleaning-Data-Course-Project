@@ -2,8 +2,8 @@
 
 ### This Code Book summarises the fields (variables) in the tidydata.txt
 
-* Subject - ID of the test subject
-* Activity - The activity performed when the measurements were made
+* Subject - ID of the test subject, Integer, range 1:30
+* Activity - The activity performed when the measurements were made, Character
 *				1: WALKING
 *				2: WALKING_UPSTAIRS
 *				3: WALKING_DOWNSTAIRS
