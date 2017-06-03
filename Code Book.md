@@ -4,7 +4,12 @@
 
 * Subject - ID of the test subject
 * Activity - The activity performed when the measurements were made
-*
+*				1: WALKING
+*				2: WALKING_UPSTAIRS
+*				3: WALKING_DOWNSTAIRS
+* 			4: SITTING
+*				5: STANDING
+*				6: LAYING
 * TimeBodyAcc-Mean-X          :Time domain Body Acceleration signal (at 50Hz) mean in X direction 
 * TimeBodyAcc-Mean-Y          :Time domain Body Acceleration signal (at 50Hz) mean in Y direction
 * TimeBodyAcc-Mean-Z          :Time domain Body Acceleration signal (at 50Hz) mean in Z direction
